@@ -30,7 +30,7 @@ In RHEL8.0 Firewall should be stop (`systemctl stop firewalld`)
 
 
 ## 1.CREATE GIT REPOSITORY
-![Image of Repo](https://github.com/Arun878/images/blob/master/Screenshot%20(74).png)
+![Image of Repo](https://github.com/Arun878/images/blob/master/Screenshot%20(86).png)
 
 ## 2.GIVING JENKINS POWER TO RUN COMMAND ON REDHAT LINUX 8
 
